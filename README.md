@@ -10,16 +10,16 @@
 ## Q2. 2 things you learned today:
 
 ### 2. New Branch - lesson 03
-### Create a new branch
+#### Create a new branch
 ```
 git checkout -b ＜new-branch＞ ＜existing-branch＞
 ```
-### Change to the branch Lesson-03
+#### Change to the branch Lesson-03
 ```
 git checkout ＜branchname＞ 
 ```
 OR
-### Change back to Main
+#### Change back to Main
 ```
 git checkout main
 ```
