@@ -2,15 +2,15 @@
 
 ## Q1. 3 things you want to try during this course:
 
-*   [x] **Easy to read** like an article
-*   [x] **Feature overview and Contents** for fast orientation
-*   [ ] **Visuals** to keep users engaged
+*   [x] Add a **New Tab and New Router Link** for my mobile app
+*   [x] Change **Tab Button Icon** for my mobile app
+*   [x] Recall **Create a New Branch and git the files** to repository
 
 
 ## Q2. 2 things you learned today:
 
 ### 1. Create a New tab, router link and Change the icon
-#### Create a new branch
+#### Create a new Tab
 ```js
   <Tabs.Screen
     name="cheese"
@@ -20,6 +20,12 @@
     }}
   />
 ```
+Change name code (It includes popular icon sets you can browse at <a href="https://icons.expo.fyi/Index">icons.expo.fyi.</a>)
+
+```js
+<FontAwesome size={28} name="table" color={color} />
+```
+
 #### Change to the branch Lesson-03
 ```
 git checkout ＜branchname＞ 
