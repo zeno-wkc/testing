@@ -20,7 +20,7 @@
     }}
   />
 ```
-Change "name" of the code (It includes popular icon sets you can browse at <a href="https://icons.expo.fyi/Index">icons.expo.fyi</a>.)
+- Change "name" of the code (It includes popular icon sets you can browse at <a href="https://icons.expo.fyi/Index">icons.expo.fyi</a>.)
 
 ```js
 <FontAwesome size={28} name="table" color={color} />
