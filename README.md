@@ -1,8 +1,8 @@
 # COMP-3170-Frontend_Web_Development_2-Lab-Week_03
 
-## 1. 3 things you want to try during this course:
+## Q1. 3 things you want to try during this course:
 
-## 2. 2 things you learned today:
+## Q2. 2 things you learned today:
 
 ## New Branch - lesson 03
 ### Create a new branch
@@ -18,5 +18,5 @@ OR
 ```
 git checkout main
 ```
-## 3. 1 word for how you’re feeling:
+## Q3. 1 word for how you’re feeling:
 Tried
