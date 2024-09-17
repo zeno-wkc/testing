@@ -2,6 +2,11 @@
 
 ## Q1. 3 things you want to try during this course:
 
+*   [x] **Easy to read** like an article
+*   [x] **Feature overview and Contents** for fast orientation
+*   [ ] **Visuals** to keep users engaged
+
+
 ## Q2. 2 things you learned today:
 
 ## New Branch - lesson 03
