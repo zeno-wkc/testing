@@ -9,7 +9,7 @@
 
 ## Q2. 2 things you learned today:
 
-## New Branch - lesson 03
+### 2. New Branch - lesson 03
 ### Create a new branch
 ```
 git checkout -b ＜new-branch＞ ＜existing-branch＞
