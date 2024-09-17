@@ -9,6 +9,28 @@
 
 ## Q2. 2 things you learned today:
 
+### 1. Create a New tab, router link and Change the icon
+#### Create a new branch
+```js
+  <Tabs.Screen
+    name="cheese"
+    options={{
+      title: 'Cheese',
+      tabBarIcon: ({ color }) => <FontAwesome size={28} name="table" color={color} />,
+    }}
+  />
+```
+#### Change to the branch Lesson-03
+```
+git checkout ＜branchname＞ 
+```
+OR
+#### Change back to Main
+```
+git checkout main
+```
+
+
 ### 2. New Branch - lesson 03
 #### Create a new branch
 ```
